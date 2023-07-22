@@ -24,14 +24,14 @@ Bu depo, YunoHost'un temel olarak Python ve Bash ile yazılmış çekirdek kodun
 - [Yükleme Dökümanı](https://yunohost.org/install)
 - [Hata İzleyici](https://github.com/YunoHost/issues)
 
-# Screenshots
+# Ekran Görüntüleri
 
 Webadmin ([Yunohost-Admin](https://github.com/YunoHost/yunohost-admin)) | Tek girişli kullanıcı portalı ([SSOwat](https://github.com/YunoHost/ssowat))
 --- |  ---
 ![](https://raw.githubusercontent.com/YunoHost/doc/master/images/webadmin.png) | ![](https://raw.githubusercontent.com/YunoHost/doc/master/images/user_panel.png)
 
 
-## Contributing
+## Katkı Sağlamak İçin
 
 - [Bu Dökümanı](https://yunohost.org/dev) okuyarak YunoHost'u geliştirmemize nasıl yardımcı olabileceğini öğrenebilirsin.
 - [Geliştirici Sohbet Odasında](https://yunohost.org/#/chat_rooms) bizimle sohbet et!
@@ -41,7 +41,7 @@ Webadmin ([Yunohost-Admin](https://github.com/YunoHost/yunohost-admin)) | Tek gi
 <img src="https://translate.yunohost.org/widgets/yunohost/-/core/horizontal-auto.svg" alt="Translation status" />
 </p>
 
-## License
+## Lisans
 
 [YunoHost'un diğer bileşenlerinin](https://yunohost.org/#/faq_en), olduğu gibi, bu depo da GNU AGPL v3 ile lisanslanmıştır.
 
